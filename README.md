@@ -1,4 +1,4 @@
-# PySweeper
+# MineSweeper
 
 [description](https://codingchallenges.fyi/challenges/challenge-minesweeper).
 
